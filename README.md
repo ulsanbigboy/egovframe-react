@@ -91,3 +91,14 @@ npm start
 1. [Available scripts in CRA](./Docs/create-react-app-script.md)
 2. [개발환경 초기 설정](./Docs/development-env-setting.md)
 
+
+### 참조
+
+보다 상세한 설명은 아래의 문서를 확인한다.
+
+cd D:\Front
+git clone https://github.com/eGovFramework/egovframe-template-simple-react.git
+cd D:\Front\egovframe-template-simple-react
+npm install
+npm start
+
