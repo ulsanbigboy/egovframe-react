@@ -94,15 +94,9 @@ npm start
 
 ### 참조
 
-보다 상세한 설명은 아래의 문서를 확인한다.
-
-cd D:\Front
-
-git clone https://github.com/eGovFramework/egovframe-template-simple-react.git
-
-cd D:\Front\egovframe-template-simple-react
-
-npm install
-
-npm start
+1. cd D:\Front
+2. git clone https://github.com/eGovFramework/egovframe-template-simple-react.git
+3. cd D:\Front\egovframe-template-simple-react
+4. npm install
+5. npm start
 
