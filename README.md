@@ -97,8 +97,12 @@ npm start
 보다 상세한 설명은 아래의 문서를 확인한다.
 
 cd D:\Front
+
 git clone https://github.com/eGovFramework/egovframe-template-simple-react.git
+
 cd D:\Front\egovframe-template-simple-react
+
 npm install
+
 npm start
 
