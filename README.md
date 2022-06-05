@@ -121,33 +121,52 @@ npm start
 Within the download you'll find the following directories and files:
 
 ```
-material-kit-react
+egovframe-react
 
-┌── .eslintrc.json
+┌── .env.development
+├── .env.production
 ├── .gitignore
-├── CHANGELOG.md
 ├── jsconfig.json
-├── LICENSE.md
 ├── package.json
+├── package-lock.json
 ├── README.md
+├── build
+├── doc
 ├── public
+│   ├── index.html
+│   └── assets
 └── src
-	├── __mocks__
-	├── components
-	├── icons
-	├── theme
-	├── utils
-	└── pages
-		├── 404.js
-		├── _app.js
-		├── _document.js
-		├── account.js
-		├── customers.js
-		├── index.js
-		├── login.js
-		├── products.js
-		├── register.js
-		└── settings.js
+    ├── App.js
+    ├── index.js
+    ├── reportWebVitals.js
+    ├── context
+    ├── css
+    │   └── images
+    ├── egov
+    │   ├── about
+    │   ├── admin
+    │   │   ├─board
+    │   │   ├─gallery
+    │   │   ├─notice
+    │   │   ├─schedule
+    │   │   ├─template
+    │   │   └─usage
+    │   ├── common
+    │   │   └─leftmenu
+    │   ├── inform
+    │   │   ├── daily
+    │   │   ├── gallery
+    │   │   ├── notice
+    │   │   └── weekly
+    │   ├── intro
+    │   ├── login
+    │   ├── main
+    │   └── support
+    │       ├── apply
+    │       ├── download
+    │       └── qna
+    └── js
+        ├── jquery-1.11.2.min.js
+        └── ui.js
+
 ```
-
-
