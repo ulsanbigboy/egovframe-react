@@ -104,16 +104,17 @@ npm start
 
 ## Quick start
 
-- [Download from Github](https://github.com/devias-io/material-kit-react/archive/master.zip) or [Download from Devias](https://devias.io/products/material-kit-react) or clone the repo: `git clone https://github.com/devias-io/material-kit-react.git`
+- [깃허브 다운로드](https://github.com/ulsanbigboy/egovframe-react/archive/master.zip) or 레파지토리 클론 : `git clone https://github.com/ulsanbigboy/egovframe-react.git`
 
 - Make sure your NodeJS and npm versions are up to date for `React 17`
 
 - Install dependencies: `npm install` or `yarn`
 
-- Start the server: `npm run dev` or `yarn dev`
+- 서버실행: `npm start` or `yarn dev`
 
-- Views are on: `localhost:3000`
+- 사이트보기: `localhost:3000`
 
+- 배포: `localhost:3000`
 
 
 ## File Structure
@@ -123,8 +124,8 @@ Within the download you'll find the following directories and files:
 ```
 egovframe-react
 
-┌── .env.development
-├── .env.production
+┌── .env.development (개발환경)
+├── .env.production (실행환경)
 ├── .gitignore
 ├── jsconfig.json
 ├── package.json

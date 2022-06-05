@@ -51,50 +51,6 @@ Within the download you'll find the following directories and files:
 ```
 material-kit-react
 
-
-
-├─build
-│  ├─assets
-│  │  └─images
-│  └─static
-│      ├─css
-│      ├─js
-│      └─media
-├─doc
-├─public
-│  └─assets
-│      └─images
-└─src
-    ├─context
-    ├─css
-    │  └─images
-    ├─egov
-    │  ├─about
-    │  ├─admin
-    │  │  ├─board
-    │  │  ├─gallery
-    │  │  ├─notice
-    │  │  ├─schedule
-    │  │  ├─template
-    │  │  └─usage
-    │  ├─common
-    │  │  └─leftmenu
-    │  ├─inform
-    │  │  ├─daily
-    │  │  ├─gallery
-    │  │  ├─notice
-    │  │  └─weekly
-    │  ├─intro
-    │  ├─login
-    │  ├─main
-    │  └─support
-    │      ├─apply
-    │      ├─download
-    │      └─qna
-    └─js
-
-
-
 ┌── .env.development
 ├── .env.production
 ├── .gitignore
