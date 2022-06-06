@@ -1,4 +1,4 @@
-# 표준프레임워크 FrontEnd
+# 전자정부 FrontEnd
 
 ※ 본 프로젝트는 기존 JSP 뷰 방식에서 벗어나 BackEnd와 FrontEnd를 분리하기 위한 예시 파일로 참고만 하시길 바랍니다.
 
