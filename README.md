@@ -140,77 +140,77 @@ egovframe-react
     │   ├── egovFetch.js
     │   └── url.js
     ├── css
-            base.css
-            component.css
-            layout.css
-            page.css
-            response.css
+    │   ├── base.css
+    │   ├── component.css
+    │   ├── layout.css
+    │   ├── page.css
+    │   ├── response.css
     │   └── images
-              bg_btn_calendar.png 
+    │       └── bg_btn_calendar.png
     ├── egov
     │   ├── about
-              EgovAboutHistory.jsx
-              EgovAboutLocation.jsx
-              EgovAboutOrganization.jsx
-              EgovAboutSite.jsx
-
+    │   │   ├── EgovAboutHistory.jsx
+    │   │   ├── EgovAboutLocation.jsx
+    │   │   ├── EgovAboutOrganization.jsx
+    │   │   └── EgovAboutSite.jsx
+    │   │
     │   ├── admin
-    │   │   ├─board
-                EgovAdminBoardEdit.jsx
-                EgovAdminBoardList.jsx
-    │   │   ├─gallery
-                EgovAdminGalleryDetail.jsx
-                EgovAdminGalleryEdit.jsx
-                EgovAdminGalleryList.jsx
-    │   │   ├─notice
-                EgovAdminNoticeDetail.jsx
-                EgovAdminNoticeEdit.jsx
-                EgovAdminNoticeList.jsx
-    │   │   ├─schedule
-                EgovAdminScheduleDetail.jsx
-                EgovAdminScheduleEdit.jsx
-                EgovAdminScheduleList.jsx
-    │   │   ├─template
-                EgovAdminTemplateEdit.jsx
-                EgovAdminTemplateList.jsx
-    │   │   └─usage
-                EgovAdminUsageEdit.jsx
-                EgovAdminUsageList.jsx
+    │   │   ├── board
+    │   │   │   ├── EgovAdminBoardEdit.jsx
+    │   │   │   └── EgovAdminBoardList.jsx
+    │   │   ├── gallery
+    │   │   │   ├── EgovAdminGalleryDetail.jsx
+    │   │   │   ├── EgovAdminGalleryEdit.jsx
+    │   │   │   └── EgovAdminGalleryList.jsx
+    │   │   ├── notice
+    │   │   │   ├── EgovAdminNoticeDetail.jsx
+    │   │   │   ├── EgovAdminNoticeEdit.jsx
+    │   │   │   └── EgovAdminNoticeList.jsx
+    │   │   ├── schedule
+    │   │   │   ├── EgovAdminScheduleDetail.jsx
+    │   │   │   ├── EgovAdminScheduleEdit.jsx
+    │   │   │   └── EgovAdminScheduleList.jsx
+    │   │   ├── template
+    │   │   │   ├── EgovAdminTemplateEdit.jsx
+    │   │   │   └── EgovAdminTemplateList.jsx
+    │   │   └── usage
+    │   │       ├── EgovAdminUsageEdit.jsx
+    │   │       └── EgovAdminUsageList.jsx
     │   ├── common
-    │   │   └─leftmenu
-                EgovLeftNavAbout.jsx
-                EgovLeftNavAdmin.jsx
-                EgovLeftNavInform.jsx
-                EgovLeftNavIntro.jsx
-                EgovLeftNavSupport.jsx
-              EgovAttachFile.jsx
-              EgovCondition.jsx
-              EgovContainer.jsx
-              EgovError.jsx
-              EgovFooter.jsx
-              EgovHeader.jsx
-              EgovImageGallery.jsx
-              EgovInfoPopup.jsx
-              EgovLeftNav.jsx
-              EgovPaging.jsx
-              EgovRadioButton.jsx
-              EgovRadioButtonGroup.jsx
-              EgovSelect.jsx
-              EgovViewTemplate.jsx
+    │   │   ├── EgovAttachFile.jsx
+    │   │   ├── EgovCondition.jsx
+    │   │   ├── EgovContainer.jsx
+    │   │   ├── EgovError.jsx
+    │   │   ├── EgovFooter.jsx
+    │   │   ├── EgovHeader.jsx
+    │   │   ├── EgovImageGallery.jsx
+    │   │   ├── EgovInfoPopup.jsx
+    │   │   ├── EgovLeftNav.jsx
+    │   │   ├── EgovPaging.jsx
+    │   │   ├── EgovRadioButton.jsx
+    │   │   ├── EgovRadioButtonGroup.jsx
+    │   │   ├── EgovSelect.jsx
+    │   │   ├── EgovViewTemplate.jsx
+    │   │   └── leftmenu
+    │   │       ├── EgovLeftNavAbout.jsx
+    │   │       ├── EgovLeftNavAdmin.jsx
+    │   │       ├── EgovLeftNavInform.jsx
+    │   │       ├── EgovLeftNavIntro.jsx
+    │   │       └── EgovLeftNavSupport.jsx
     │   ├── inform
     │   │   ├── daily
-                    EgovDailyDetail.jsx
-                    EgovDailyList.jsx
+    │   │   │   ├── EgovDailyDetail.jsx
+    │   │   │   └── EgovDailyList.jsx
     │   │   ├── gallery
-                    EgovGalleryDetail.jsx
-                    EgovGalleryEdit.jsx
-                    EgovGalleryList.jsx
+    │   │   │   ├── EgovGalleryDetail.jsx
+    │   │   │   ├── EgovGalleryEdit.jsx
+    │   │   │   └── EgovGalleryList.jsx
     │   │   ├── notice
-                    EgovNoticeDetail.jsx
-                    EgovNoticeEdit.jsx
-                    EgovNoticeList.jsx
+    │   │   │   ├── EgovNoticeDetail.jsx
+    │   │   │   ├── EgovNoticeEdit.jsx
+    │   │   │   └── EgovNoticeList.jsx
     │   │   └── weekly
-                    EgovWeeklyList.jsx
+    │   │       └── EgovWeeklyList.jsx
     │   ├── intro
     │   │   ├── EgovIntroService.jsx
     │   │   └── EgovIntroWork.jsx
