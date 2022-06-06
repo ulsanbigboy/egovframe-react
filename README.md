@@ -105,17 +105,11 @@ npm start
 ## Quick start
 
 - [깃허브 다운로드](https://github.com/ulsanbigboy/egovframe-react/archive/master.zip) or 레파지토리 클론 : `git clone https://github.com/ulsanbigboy/egovframe-react.git`
-
 - Make sure your NodeJS and npm versions are up to date for `React 17`
-
-- Install dependencies: `npm install` or `yarn`
-
-- 서버실행: `npm start` or `yarn dev`
-
+- 초기설정: `npm install`
+- 서버실행: `npm start`
+- 배포실행: `npm run build`
 - 사이트보기: `localhost:3000`
-
-- 배포: `localhost:3000`
-
 
 ## File Structure
 
