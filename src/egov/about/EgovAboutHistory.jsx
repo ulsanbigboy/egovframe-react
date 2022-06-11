@@ -1,3 +1,10 @@
+{/* A JSX comment */}
+{/* A JSX comment */}
+{/* A JSX comment */}
+{/* A JSX comment */}
+{/* A JSX comment */}
+{/* A JSX comment */}
+{/* A JSX comment */}
 import React from 'react';
 import { Link } from 'react-router-dom';
 
