@@ -154,28 +154,28 @@ egovframe-react
     │   │   ├── EgovAboutOrganization.jsx (조직소개)
     │   │   └── EgovAboutSite.jsx (소개)
     │   │
-    │   ├── admin
+    │   ├── admin (Home > 사이트관리)
     │   │   ├── board
-    │   │   │   ├── EgovAdminBoardEdit.jsx
-    │   │   │   └── EgovAdminBoardList.jsx
+    │   │   │   ├── EgovAdminBoardEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovAdminBoardList.jsx (xxxxxxxxxx)
     │   │   ├── gallery
-    │   │   │   ├── EgovAdminGalleryDetail.jsx
-    │   │   │   ├── EgovAdminGalleryEdit.jsx
-    │   │   │   └── EgovAdminGalleryList.jsx
+    │   │   │   ├── EgovAdminGalleryDetail.jsx (xxxxxxxxxx)
+    │   │   │   ├── EgovAdminGalleryEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovAdminGalleryList.jsx (xxxxxxxxxx)
     │   │   ├── notice
-    │   │   │   ├── EgovAdminNoticeDetail.jsx
-    │   │   │   ├── EgovAdminNoticeEdit.jsx
-    │   │   │   └── EgovAdminNoticeList.jsx
+    │   │   │   ├── EgovAdminNoticeDetail.jsx (xxxxxxxxxx)
+    │   │   │   ├── EgovAdminNoticeEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovAdminNoticeList.jsx (xxxxxxxxxx)
     │   │   ├── schedule
-    │   │   │   ├── EgovAdminScheduleDetail.jsx
-    │   │   │   ├── EgovAdminScheduleEdit.jsx
-    │   │   │   └── EgovAdminScheduleList.jsx
+    │   │   │   ├── EgovAdminScheduleDetail.jsx (xxxxxxxxxx)
+    │   │   │   ├── EgovAdminScheduleEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovAdminScheduleList.jsx (xxxxxxxxxx)
     │   │   ├── template
-    │   │   │   ├── EgovAdminTemplateEdit.jsx
-    │   │   │   └── EgovAdminTemplateList.jsx
+    │   │   │   ├── EgovAdminTemplateEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovAdminTemplateList.jsx (xxxxxxxxxx)
     │   │   └── usage
-    │   │       ├── EgovAdminUsageEdit.jsx
-    │   │       └── EgovAdminUsageList.jsx
+    │   │       ├── EgovAdminUsageEdit.jsx (xxxxxxxxxx)
+    │   │       └── EgovAdminUsageList.jsx (xxxxxxxxxx)
     │   ├── common
     │   │   ├── EgovAttachFile.jsx
     │   │   ├── EgovCondition.jsx
@@ -197,38 +197,38 @@ egovframe-react
     │   │       ├── EgovLeftNavInform.jsx
     │   │       ├── EgovLeftNavIntro.jsx
     │   │       └── EgovLeftNavSupport.jsx
-    │   ├── inform
+    │   ├── inform (Home > 알림마당)
     │   │   ├── daily
-    │   │   │   ├── EgovDailyDetail.jsx
-    │   │   │   └── EgovDailyList.jsx
+    │   │   │   ├── EgovDailyDetail.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovDailyList.jsx (xxxxxxxxxx)
     │   │   ├── gallery
-    │   │   │   ├── EgovGalleryDetail.jsx
-    │   │   │   ├── EgovGalleryEdit.jsx
-    │   │   │   └── EgovGalleryList.jsx
+    │   │   │   ├── EgovGalleryDetail.jsx (xxxxxxxxxx)
+    │   │   │   ├── EgovGalleryEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovGalleryList.jsx (xxxxxxxxxx)
     │   │   ├── notice
-    │   │   │   ├── EgovNoticeDetail.jsx
-    │   │   │   ├── EgovNoticeEdit.jsx
-    │   │   │   └── EgovNoticeList.jsx
+    │   │   │   ├── EgovNoticeDetail.jsx (xxxxxxxxxx)
+    │   │   │   ├── EgovNoticeEdit.jsx (xxxxxxxxxx)
+    │   │   │   └── EgovNoticeList.jsx (xxxxxxxxxx)
     │   │   └── weekly
-    │   │       └── EgovWeeklyList.jsx
-    │   ├── intro
-    │   │   ├── EgovIntroService.jsx
-    │   │   └── EgovIntroWork.jsx
+    │   │       └── EgovWeeklyList.jsx (xxxxxxxxxx)
+    │   ├── intro (Home > 정보마당)
+    │   │   ├── EgovIntroService.jsx (xxxxxxxxxx)
+    │   │   └── EgovIntroWork.jsx (xxxxxxxxxx)
     │   ├── login
-    │   │   ├── EgovLogin.jsx
-    │   │   └── EgovLoginContent.jsx
+    │   │   ├── EgovLogin.jsx (xxxxxxxxxx)
+    │   │   └── EgovLoginContent.jsx (xxxxxxxxxx)
     │   ├── main
-    │   │   └── EgovMain.jsx
-    │   └── support
+    │   │   └── EgovMain.jsx (xxxxxxxxxx)
+    │   └── support (Home > 고객지원)
     │       ├── apply
-    │       │   └── EgovSupportApply.jsx
+    │       │   └── EgovSupportApply.jsx (xxxxxxxxxx)
     │       ├── download
-    │       │   ├── EgovDownloadCreate.jsx
-    │       │   ├── EgovDownloadDetail.jsx
-    │       │   └── EgovDownloadList.jsx
+    │       │   ├── EgovDownloadCreate.jsx (xxxxxxxxxx)
+    │       │   ├── EgovDownloadDetail.jsx (xxxxxxxxxx)
+    │       │   └── EgovDownloadList.jsx (xxxxxxxxxx)
     │       └── qna
-    │           ├── EgovQnaDetail.jsx
-    │           └── EgovQnaList.jsx
+    │           ├── EgovQnaDetail.jsx (xxxxxxxxxx)
+    │           └── EgovQnaList.jsx (xxxxxxxxxx)
     └── js
         ├── jquery-1.11.2.min.js
         └── ui.js
