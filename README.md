@@ -221,14 +221,14 @@ egovframe-react
     │   │   └── EgovMain.jsx (xxxxxxxxxx)
     │   └── support (Home > 고객지원)
     │       ├── apply
-    │       │   └── EgovSupportApply.jsx (xxxxxxxxxx)
+    │       │   └── EgovSupportApply.jsx (서비스신청)
     │       ├── download
-    │       │   ├── EgovDownloadCreate.jsx (xxxxxxxxxx)
-    │       │   ├── EgovDownloadDetail.jsx (xxxxxxxxxx)
-    │       │   └── EgovDownloadList.jsx (xxxxxxxxxx)
+    │       │   ├── EgovDownloadCreate.jsx (자료실)
+    │       │   ├── EgovDownloadDetail.jsx (자료 상세설명)
+    │       │   └── EgovDownloadList.jsx (자료 목록)
     │       └── qna
-    │           ├── EgovQnaDetail.jsx (xxxxxxxxxx)
-    │           └── EgovQnaList.jsx (xxxxxxxxxx)
+    │           ├── EgovQnaDetail.jsx (묻고답하기(Q&A))
+    │           └── EgovQnaList.jsx (Q&A 상세조회)
     └── js
         ├── jquery-1.11.2.min.js
         └── ui.js
