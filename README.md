@@ -148,11 +148,11 @@ egovframe-react
     │   └── images
     │       └── bg_btn_calendar.png
     ├── egov
-    │   ├── about
-    │   │   ├── EgovAboutHistory.jsx
-    │   │   ├── EgovAboutLocation.jsx
-    │   │   ├── EgovAboutOrganization.jsx
-    │   │   └── EgovAboutSite.jsx
+    │   ├── about (Home > 사이트 소개)
+    │   │   ├── EgovAboutHistory.jsx (연혁)
+    │   │   ├── EgovAboutLocation.jsx (찾아오시는길)
+    │   │   ├── EgovAboutOrganization.jsx (조직소개)
+    │   │   └── EgovAboutSite.jsx (소개)
     │   │
     │   ├── admin
     │   │   ├── board
