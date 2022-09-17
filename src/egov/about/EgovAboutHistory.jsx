@@ -1,16 +1,7 @@
-{/* A JSX comment */}
-{/* A JSX comment */}
-{/* A JSX comment */}
-{/* A JSX comment */}
-{/* A JSX comment */}
-{/* A JSX comment */}
-{/* A JSX comment */}
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import URL from 'context/url';
 import { default as EgovLeftNav } from 'egov/common/leftmenu/EgovLeftNavAbout';
-
 function EgovAboutHistory() {
     return (
         <div className="container">
