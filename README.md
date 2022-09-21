@@ -120,7 +120,7 @@ egovframe-react
 
 ┌── .env.development (개발환경)
 ├── .env.production (실행환경)
-├── .gitignore
+├── .gitignore (깃설정파일)
 ├── jsconfig.json
 ├── package.json
 ├── package-lock.json
@@ -135,10 +135,10 @@ egovframe-react
     ├── index.js
     ├── reportWebVitals.js
     ├── context
-    │   ├── code.js
-    │   ├── config.js
-    │   ├── egovFetch.js
-    │   └── url.js
+    │   ├── code.js (xxxxxxxxxx)
+    │   ├── config.js (xxxxxxxxxx)
+    │   ├── egovFetch.js (xxxxxxxxxx)
+    │   └── url.js (url 상수)
     ├── css
     │   ├── base.css
     │   ├── component.css
@@ -192,11 +192,11 @@ egovframe-react
     │   │   ├── EgovSelect.jsx
     │   │   ├── EgovViewTemplate.jsx
     │   │   └── leftmenu
-    │   │       ├── EgovLeftNavAbout.jsx
-    │   │       ├── EgovLeftNavAdmin.jsx
-    │   │       ├── EgovLeftNavInform.jsx
-    │   │       ├── EgovLeftNavIntro.jsx
-    │   │       └── EgovLeftNavSupport.jsx
+    │   │       ├── EgovLeftNavAbout.jsx (사이트 소개 좌측메뉴)
+    │   │       ├── EgovLeftNavAdmin.jsx (사이트관리 좌측메뉴)
+    │   │       ├── EgovLeftNavInform.jsx (알림마당 좌측메뉴)
+    │   │       ├── EgovLeftNavIntro.jsx (정보마당 좌측메뉴)
+    │   │       └── EgovLeftNavSupport.jsx (고객지원 좌측메뉴)
     │   ├── inform (Home > 알림마당)
     │   │   ├── daily
     │   │   │   ├── EgovDailyDetail.jsx (xxxxxxxxxx)
