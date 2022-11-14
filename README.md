@@ -121,32 +121,32 @@ egovframe-react
 ┌── .env.development (개발환경)
 ├── .env.production (실행환경)
 ├── .gitignore (깃설정파일)
-├── jsconfig.json
-├── package.json
-├── package-lock.json
+├── jsconfig.json (xxxxxxxxxx)
+├── package.json (xxxxxxxxxx)
+├── package-lock.json (xxxxxxxxxx)
 ├── README.md (개발문서)
 ├── build (디플로이 결과 디렉토리)
 ├── doc (참고문서)
 ├── public
-│   ├── index.html
-│   └── assets
+│   ├── index.html (xxxxxxxxxx)
+│   └── assets (xxxxxxxxxx)
 └── src
-    ├── App.js
-    ├── index.js
-    ├── reportWebVitals.js
+    ├── App.js (xxxxxxxxxx)
+    ├── index.js (xxxxxxxxxx)
+    ├── reportWebVitals.js (xxxxxxxxxx)
     ├── context
     │   ├── code.js (xxxxxxxxxx)
     │   ├── config.js (xxxxxxxxxx)
     │   ├── egovFetch.js (xxxxxxxxxx)
     │   └── url.js (url 상수)
     ├── css
-    │   ├── base.css
-    │   ├── component.css
-    │   ├── layout.css
-    │   ├── page.css
-    │   ├── response.css
+    │   ├── base.css (xxxxxxxxxx)
+    │   ├── component.css (xxxxxxxxxx)
+    │   ├── layout.css (xxxxxxxxxx)
+    │   ├── page.css (xxxxxxxxxx)
+    │   ├── response.css (xxxxxxxxxx)
     │   └── images
-    │       └── bg_btn_calendar.png
+    │       └── bg_btn_calendar.png (xxxxxxxxxx)
     ├── egov
     │   ├── about (Home > 사이트 소개)
     │   │   ├── EgovAboutHistory.jsx (연혁)
@@ -177,20 +177,20 @@ egovframe-react
     │   │       ├── EgovAdminUsageEdit.jsx (xxxxxxxxxx)
     │   │       └── EgovAdminUsageList.jsx (xxxxxxxxxx)
     │   ├── common
-    │   │   ├── EgovAttachFile.jsx
-    │   │   ├── EgovCondition.jsx
-    │   │   ├── EgovContainer.jsx
-    │   │   ├── EgovError.jsx
-    │   │   ├── EgovFooter.jsx
-    │   │   ├── EgovHeader.jsx
-    │   │   ├── EgovImageGallery.jsx
-    │   │   ├── EgovInfoPopup.jsx
-    │   │   ├── EgovLeftNav.jsx
-    │   │   ├── EgovPaging.jsx
-    │   │   ├── EgovRadioButton.jsx
-    │   │   ├── EgovRadioButtonGroup.jsx
-    │   │   ├── EgovSelect.jsx
-    │   │   ├── EgovViewTemplate.jsx
+    │   │   ├── EgovAttachFile.jsx (xxxxxxxxxx)
+    │   │   ├── EgovCondition.jsx (xxxxxxxxxx)
+    │   │   ├── EgovContainer.jsx (xxxxxxxxxx)
+    │   │   ├── EgovError.jsx (xxxxxxxxxx)
+    │   │   ├── EgovFooter.jsx (xxxxxxxxxx)
+    │   │   ├── EgovHeader.jsx (xxxxxxxxxx)
+    │   │   ├── EgovImageGallery.jsx (xxxxxxxxxx)
+    │   │   ├── EgovInfoPopup.jsx (xxxxxxxxxx)
+    │   │   ├── EgovLeftNav.jsx (xxxxxxxxxx)
+    │   │   ├── EgovPaging.jsx (xxxxxxxxxx)
+    │   │   ├── EgovRadioButton.jsx (xxxxxxxxxx)
+    │   │   ├── EgovRadioButtonGroup.jsx (xxxxxxxxxx)
+    │   │   ├── EgovSelect.jsx (xxxxxxxxxx)
+    │   │   ├── EgovViewTemplate.jsx (xxxxxxxxxx)
     │   │   └── leftmenu
     │   │       ├── EgovLeftNavAbout.jsx (사이트 소개 좌측메뉴)
     │   │       ├── EgovLeftNavAdmin.jsx (사이트관리 좌측메뉴)
@@ -241,4 +241,5 @@ egovframe-react
 - [운영환경](http://monoalliance.iptime.org:8004)
 - [백엔드](https://github.com/ulsanbigboy/egovframe-backend)
 - [프론트](https://github.com/ulsanbigboy/egovframe-react)
+
 
